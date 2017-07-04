@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">HomePage</string>
+    <string name="profileText">profile</string>
+    <string name="statisticsText">statistics</string>
+    <string name="photosText">photos</string>
+    <string name="laboratoryText">laboratory</string>
+    <string name="calendarText">calendar</string>
+    <string name="alertText">alert</string>
+    <string name="topText">Profile</string>
+    <string name="bottomText">Michael Galubinski</string>
 </resources>
